@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+  .home-text {
+    margin: 17% 21%;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: "Source Sans Pro", sans-serif;
+    color: #000;
+  }
+  .user {
+    font-weight: bold;
+  }
+
+  .signup-text {
+    color: black;
+  }
+}
